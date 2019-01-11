@@ -177,6 +177,10 @@ hr {
   	justify-content: center;
   	
 }
+.profile-flex {
+display:flex;
+background-color: 
+}
 
 
 #showcase {
@@ -202,4 +206,11 @@ hr {
 
 a:hover {
  	color: #F7E7CE;
+}
+
+
+#profile-photo {
+	background-color: black;
+	color: #EEDC82;
+	font-family: courier;
 }
