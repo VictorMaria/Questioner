@@ -1,0 +1,175 @@
+body {
+	padding:0;
+	margin:0;
+	}
+#whole	{
+	background-color: #1DB6EF;
+	background-image: url("photo.jpg");
+}
+a.active {
+  font-weight: bold;
+  color: #EEDC82;
+}
+#nav-bar {
+ background-color: black;
+ height: 20px;
+ font-size: 20px;
+ font-weight: light;
+ padding: 20px;
+ font-family: courier;
+ }
+ 
+a {
+text-decoration: none;
+color: #1DB6EF;
+} 	
+
+.sign-in-div, .sign-up-div {
+	text-align: center;
+	border-style: solid;
+	border-color: #1DB6EF;
+	font-family: courier;
+	width: 30%;
+	margin: 10px auto;
+	padding: 20px;
+	color: black;
+	box-shadow: 5px 5px black;
+
+}
+hr {
+	border-color: #1DB6EF; 
+}
+
+#email, #password, #firstname, #lastname, 
+#username, #phonenumber, #password, #retype-password {
+	width: 220px;
+ 	height: 20px;
+  	font-size: 13px;
+  	}
+  	
+#sign-in-button, #sign-up-button  {
+	background-color: black;
+	color: white;
+	font-family: courier;
+	font-weight: bold;
+	font-size: 20px;
+	width: 220px;
+}	
+
+.meetups-div {
+	font-family: courier;
+	width: 50%;
+	margin: 10px auto;
+	padding: 20px;
+	color: black;
+}
+.quick-ask{
+	padding-left: 10px;
+}
+#ask {
+	border-color: #1DB6EF;
+	background-color:white;
+	color: #1DB6EF; 
+}
+.box, .index-div {
+	border: 10px;
+	padding-left: 30px;
+	font-family: courier;
+	width: 50%;
+	margin: 10px auto;
+	padding: 20px;
+	color: black;
+}
+.sign-up-div {
+	background-color: white;
+}
+
+.interactions{
+	padding-left: 20px;
+	color: #1DB6EF;
+	font-family: courier;
+}
+
+.ul {
+	color: #1DB6EF;
+}
+.dl {
+	color: red;
+}
+
+.ub {
+	border-color: #1DB6EF;
+	color: #1DB6EF;
+	font-family: courier;
+	background-color: white;
+}
+
+.db {
+	border-color: red;
+	color: red;
+	font-family: courier;
+	background-color: white;
+}
+.post-comment-button {
+	background-color: black;
+	color: #1DB6EF;
+	font-family: courier;
+}
+.delete-button {
+	background-color: red;
+	color: white;
+	font-family: courier;
+	font-size: 15px;
+}
+
+#create-button {
+	background-color: #1DB6EF;
+	color: white;
+	font-family: courier;
+	font-size: 15px;
+	width: 220px;
+  	height: 30px;
+}
+
+#create-meetup-div {
+	padding-left: 20px;
+	text-align: center;
+}
+
+#topic, #location, #happening-on, #tags{
+  width: 220px;
+  height: 20px;
+  font-size: 13px;
+}
+#index-sign-in-link{
+	background-color: #F7E7CE;
+	border-color: #1DB6EF;
+	color: #1DB6EF;
+	font-family: courier;
+	width: 320px;
+  	height: 60px;
+  	font-size: 40px;
+}
+
+#index-sign-up-link{
+	background-color: #1DB6EF;
+	border-color: #1DB6EF;
+	color: black;
+	font-family: courier;
+	width: 320px;
+  	height: 60px;
+  	font-size: 40px;
+}
+
+.index-div {
+	text-align: center;
+	width: 60%;
+	margin: 10px auto;
+	padding: 20px;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+.top {
+	color: #1DB6EF;
+}
